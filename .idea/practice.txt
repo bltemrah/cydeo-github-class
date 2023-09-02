@@ -1,4 +1,6 @@
 Color
 
 1. Black
-2. White
+2. Yellow
+3. Pink
+4. White
