@@ -8,5 +8,8 @@ Color
 4. Green
 2. Yellow
 3. Pink
+5. Nissan
+6. Ford
 4. White
+7. Lada
 
